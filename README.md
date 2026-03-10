@@ -1,14 +1,55 @@
+
+
+
 # Hi, I'm Thomas and this is my personal profile
 
 If you want to see my professional profile, go through this button:
 
+[![Professional GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thomas-Jefferson-SZM)
 
+> It's not completed.
 
+---
 
+## Experience
 
+Begginer Known Programming Languages:
 
+<div>
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<div>
 
-<!--<a href="https://github.com/Thomas-Jefferson-SZM" style="width: 20px; height: 8px; border: 0px; background-color: darkblue;">Thomas Jefferson</a>-->
+Other Begginer Known Languages:
+
+<div>
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  
+</div>
+
+Other Known:
+
+<div>
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+ <!-- <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />-->
+  <!-- <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />-->
+</div>
+
+---
+
+## Graduation
+
+Student of Universidade de Marília - UNIMAR
+
+3rd term of System Analysis and Development
+
+<img height="50em" src="https://oficial.unimar.br/wp-content/uploads/2022/03/unimar.png">
+
+---
 
 <!--
 **XFireYTh/XFireYTh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
