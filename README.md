@@ -51,6 +51,18 @@ Student of Universidade de Marília - UNIMAR
 
 ---
 
+## Experienced Systems
+
+<div>
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+</div>
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-jefferson-da-silva-zompero-de-morais-870803345/)
+
 <!--
 **XFireYTh/XFireYTh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
