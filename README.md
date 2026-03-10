@@ -7,7 +7,7 @@ If you want to see my professional profile, go through this button:
 
 [![Professional GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thomas-Jefferson-SZM)
 
-> It's not completed.
+> It's not complete.
 
 ---
 
