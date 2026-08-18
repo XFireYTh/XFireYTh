@@ -50,7 +50,7 @@ Other Known:
 
 Student of Universidade de Marília - UNIMAR
 
-3rd term of System Analysis and Development
+4th term of System Analysis and Development
 
 <img height="50em" src="https://oficial.unimar.br/wp-content/uploads/2022/03/unimar.png">
 
