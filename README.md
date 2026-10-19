@@ -1,9 +1,4 @@
-
-
-
 # Hi, I'm Thomas and this is my personal profile
-
----
 
 ## Experience
 
