@@ -45,6 +45,13 @@ Student of Universidade de Marília - UNIMAR
 
 ---
 
+## Professional Activity
+
+Intern at Universidade de Marília - Unimar
+Full-Stack Developer
+
+---
+
 ## Experienced Systems
 
 <div>
